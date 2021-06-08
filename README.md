@@ -1,6 +1,6 @@
 # Vacwis
 Developing a voice automated prototype automobile  which was highly recognised.
-. This concept aimed to help physically handicapped people maneuver a car with the same proficiency as you, me or best could go hands-free with a change of mode.
+. This concept aimed to help detect thermal signatures in inaccessible places with voice automation in post earthquake situations.
 
 Tech Stack :
 Language used:
