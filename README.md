@@ -27,7 +27,7 @@ How does it work?
 
 Further Committments : 
 
-- Installing the GPS navigation system in this prototype.
+- Installing the thermal signarture model to the prototype.
 - Advanced code for the line following mechanism.
 
 Find the demo of the prototype in the video uploaded!
