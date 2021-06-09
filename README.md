@@ -16,6 +16,7 @@ Components required :
 - IR Proximity Infrared Sensor Module Obstacle Detector - 2
 - Female/Male Wires
 - Chasis Developed For Uneven Terrain
+- Power Source
 
 CircuitDiagram : 
 
