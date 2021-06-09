@@ -9,12 +9,13 @@ Arduino
 
 Components required :
 
--Bluetoon Module HC-05 Master/Slave Config
--Arduino UNO R3
--100 RPM 12V DC Motor With Centre Shaft -4
--Motor Driver L298N
--IR Proximity Infrared Sensor Module Obstacle Detector - 2
--Female/Male Wires
+- Bluetoon Module HC-05 Master/Slave Config
+- Arduino UNO R3
+- 100 RPM 12V DC Motor With Centre Shaft -4
+- Motor Driver L298N
+- IR Proximity Infrared Sensor Module Obstacle Detector - 2
+- Female/Male Wires
+- Chasis Developed For Uneven Terrain
 
 CircuitDiagram : 
 
