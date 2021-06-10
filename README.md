@@ -34,3 +34,6 @@ Further Committments :
 
 Find the demo of the prototype in the video uploaded!
 
+[![Watch the video](https://img.youtube.com/vi/V_Ee2ZJ51yM/hqdefault.jpg)](https://youtu.be/V_Ee2ZJ51yM)
+
+
